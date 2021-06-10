@@ -1,13 +1,3 @@
-def max(a,b) :
-    if a < b :
-        return b 
-    else :
-        return a
-def min(a,b) :
-    if a > b :
-        return b 
-    else :
-        return a 
 m = str(input("Ввод - "))
 k = 0 
 k_max = 0
